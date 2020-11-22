@@ -62,7 +62,7 @@ You should also have conditional formatting that will highlight positive change 
 
 The result should look as follows.
 
-
+https://nu.bootcampcontent.com/NU-Coding-Bootcamp/nu-chi-data-pt-02-2020-u-c/raw/master/Homework/02-VBA-Scripting/Instructions/Images/moderate_solution.png
 
 
 # CHALLENGES
