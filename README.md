@@ -1,11 +1,11 @@
 # VBA-challenge
 
-VBA Homework - The VBA of Wall Street
+# VBA Homework - The VBA of Wall Street
 
-Background
+#Background
 You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
 
-Before You Begin
+# Before You Begin
 
 
 Create a new repository for this project called VBA-challenge. Do not add this homework to an existing repository.
@@ -24,7 +24,7 @@ Push the above changes to GitHub or GitLab.
 
 
 
-Files
+# Files
 
 
 Test Data - Use this while developing your scripts.
@@ -37,7 +37,7 @@ Stock Data - Run your scripts on this data to generate the final homework report
 Stock market analyst
 
 
-Instructions
+# Instructions
 
 
 Create a script that will loop through all the stocks for one year for each run and take the following information.
@@ -65,7 +65,7 @@ The result should look as follows.
 
 
 
-CHALLENGES
+# CHALLENGES
 
 Your solution will also be able to return the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume". The solution will look as follows:
 
@@ -74,7 +74,7 @@ Your solution will also be able to return the stock with the "Greatest % increas
 Make the appropriate adjustments to your VBA script that will allow it to run on every worksheet, i.e., every year, just by running the VBA script once.
 
 
-Other Considerations
+# Other Considerations
 
 
 Use the sheet alphabetical_testing.xlsx while developing your code. This data set is smaller and will allow you to test faster. Your code should run on this file in less than 3-5 minutes.
@@ -84,7 +84,7 @@ Make sure that the script acts the same on each sheet. The joy of VBA is to take
 
 
 
-Submission
+# Submission
 
 
 To submit please upload the following to Github:
